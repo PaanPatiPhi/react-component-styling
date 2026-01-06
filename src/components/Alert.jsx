@@ -22,7 +22,7 @@ function Alert({ type, children }) {
   const alertStyles = {
     error: {
       backgroundColor: "#F9C8C8",
-      border: "2px solid #5B6EA6",
+
    
     },
     warning: {
